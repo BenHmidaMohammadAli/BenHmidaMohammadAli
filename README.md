@@ -14,14 +14,15 @@ I am a data engineering student, I look forward to applying my skills and develo
   </h5>
 ## My Absolute Favorites:
 - 💻   I love exploring new tech building technology that help people.
-- 💻   Data managment.
+- 💻   I love playing with Data.
 
 ## 🔧 Technologies & Tools
 » Programming languages: </br>
-C, Python(Crash Course on Python :Certificate from google – Python :Certificate from Kaggel ), JAVA, C#, VB.net
+C, Python(Crash Course on Python :Certificate from google – Python :Certificate from Kaggel ), JAVA, C#,
 » Web : </br>
-Html , CSS , javascript ,PHP, Flask(Create Your First Web App with Python and Flask :Certificate 
-from coursera)</br>
+Html , CSS , javascript ,PHP</br>
+» Framework: </br>
+Dot Net, SpringBoot, Symfony, Django,  Flask(Create Your First Web App with Python and Flask :Certificate from coursera) </br>
 » DataBase: </br>
 Langage SQL - SGBD : SQL Server, Oracle, MySQL </br>
 » Programming environments : </br>
@@ -31,7 +32,7 @@ Photoshop, Illustrator, devExpress </br>
 » Operating system :  </br>
 Windows - Linux : Centos-Redhat-Ubuntu </br>
 » General skills: </br>
-Project management (GIT, GitHub), Strong autonomy and good adaptation </br>
+Project management (GIT, GitHub, Scrum), Strong autonomy and good adaptation </br>
 
 ## ⚡ Stats ⚡
 <p align=center>

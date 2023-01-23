@@ -18,7 +18,7 @@ I am a data engineering student, I look forward to applying my skills and develo
 
 ## 🔧 Technologies & Tools
 » Programming languages: </br>
-C, Python(Crash Course on Python :Certificate from google – Python :Certificate from Kaggel ), JAVA, C#,
+C, Python(Crash Course on Python :Certificate from google – Python :Certificate from Kaggel ), JAVA, C# </br>
 » Web : </br>
 Html , CSS , javascript ,PHP</br>
 » Framework: </br>

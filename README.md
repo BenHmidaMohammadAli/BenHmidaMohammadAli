@@ -17,22 +17,30 @@ I am a data engineering student, I look forward to applying my skills and develo
 - 💻   I love playing with Data.
 
 ## 🔧 Technologies & Tools
-» Programming languages: </br>
-C, Python(Crash Course on Python :Certificate from google – Python :Certificate from Kaggel ), JAVA, C# </br>
-» Web : </br>
-Html , CSS , javascript ,PHP</br>
-» Framework: </br>
-Dot Net, SpringBoot, Symfony, Django,  Flask(Create Your First Web App with Python and Flask :Certificate from coursera) </br>
-» DataBase: </br>
-Langage SQL - SGBD : SQL Server, Oracle, MySQL </br>
-» Programming environments : </br>
-Visual Studio, Eclipse, Visual Studio code, PyCharm </br>
-» Design : </br>
-Photoshop, Illustrator, devExpress </br>
-» Operating system :  </br>
-Windows - Linux : Centos-Redhat-Ubuntu </br>
-» General skills: </br>
-Project management (GIT, GitHub, Scrum), Strong autonomy and good adaptation </br>
+» Programming languages :
+- Python ( Google Certificate – Kaggel Certificate ), JAVA, C#, JavaScript, Php, R.
+» Data Engineering :
+- Creating ETLs: SQL Server Data
+Tools.
+- BI: Power BI, MDX.
+- Web Scraping: BeautifulSoup.
+- AI/Machine learning.
+- DataMining.
+- BigData
+» Frameworks:
+- Dot net Core/MVC, SpringBoot, Symfony, Django.
+» DataBase :
+- Language: SQL, PL SQL, NoSql.
+- DBMS : SQL Server, Oracle, MySQL.
+» Programming environments :
+- Visual Studio, Eclipse, Visual Studio code, PyCharm, PhpStorm, Intellij, Anaconda
+» Operating system :
+- Windows
+- Linux : Centos-Redhat-Ubuntu
+» General skills :
+- Project management (GIT, GitHub),
+- Strong autonomy and good adaptation.
+- Scrum.
 
 ## ⚡ Stats ⚡
 <p align=center>

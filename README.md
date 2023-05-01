@@ -11,14 +11,16 @@ I am a data engineering student, I look forward to applying my skills and develo
 
 - 📫 How to reach me: muhammadalibenhmida@gmail.com
   [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/www.linkedin.com/in/mohammad-ali-ben-hmida/)
-  </h5>
+</h5>
 ## My Absolute Favorites:
 - 💻   I love exploring new tech building technology that help people.
 - 💻   I love playing with Data.
 
 ## 🔧 Technologies & Tools
+</br>
 » Programming languages :
 - Python ( Google Certificate – Kaggel Certificate ), JAVA, C#, JavaScript, Php, R.
+</br>
 » Data Engineering :
 - Creating ETLs: SQL Server Data
 Tools.
@@ -46,7 +48,7 @@ Tools.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BenHmidaMohammadAli&theme=react&border=61dafb&hide_border=true" alt="BenHmidaMohammadAli" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BenHmidaMohammadAli&theme=react&border=61dafb&hide_border=true" alt="BenHmidaMohammadAli"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BenHmidaMohammadAli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />

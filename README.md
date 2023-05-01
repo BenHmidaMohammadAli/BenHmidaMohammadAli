@@ -22,23 +22,27 @@ I am a data engineering student, I look forward to applying my skills and develo
 - Python ( Google Certificate – Kaggel Certificate ), JAVA, C#, JavaScript, Php, R.
 </br>
 » Data Engineering :
-- Creating ETLs: SQL Server Data
-Tools.
+- Creating ETLs: SQL Server DataTools.
 - BI: Power BI, MDX.
 - Web Scraping: BeautifulSoup.
 - AI/Machine learning.
 - DataMining.
 - BigData
+</br>
 » Frameworks:
 - Dot net Core/MVC, SpringBoot, Symfony, Django.
+</br>
 » DataBase :
 - Language: SQL, PL SQL, NoSql.
 - DBMS : SQL Server, Oracle, MySQL.
+</br>
 » Programming environments :
 - Visual Studio, Eclipse, Visual Studio code, PyCharm, PhpStorm, Intellij, Anaconda
+</br>
 » Operating system :
 - Windows
 - Linux : Centos-Redhat-Ubuntu
+</br>
 » General skills :
 - Project management (GIT, GitHub),
 - Strong autonomy and good adaptation.

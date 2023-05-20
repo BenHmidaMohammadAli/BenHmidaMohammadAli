@@ -10,7 +10,7 @@
 I am a data engineering student, I look forward to applying my skills and developing new ones in my field in which I have specialized. I think my passion for IT, data engineering and development can help me have a great professional experience.
 
 - 📫 How to reach me: muhammadalibenhmida@gmail.com
-  [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/www.linkedin.com/in/mohammad-ali-ben-hmida/)
+  [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-ali-ben-hmida/)
 </h5>
 ## My Absolute Favorites:
 - 💻   I love exploring new tech building technology that help people.

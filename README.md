@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h5 align="center">
+
 Aspirant Data Scientist et Ingénieur Logiciel
 </br>
 📊 Spécialisé en Data Science et Génie Informatique </br>
@@ -14,7 +14,7 @@ Aspirant Data Scientist et Ingénieur Logiciel
 💡 Passionné par l'utilisation de la technologie pour des solutions basées sur les données </br>
 
 Diplômé en Génie Informatique avec une spécialisation en Data Science, je suis profondément engagé à utiliser mes compétences pour relever les défis du secteur technologique. </br>
-
+<h5 align="center">
 - 📫 How to reach me: muhammadalibenhmida@gmail.com
   [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-ali-ben-hmida/)
 </h5>

@@ -6,7 +6,14 @@
 </h1>
 
 <h5 align="center">
-I am a data engineering student, I look forward to applying my skills and developing new ones in my field in which I have specialized. I think my passion for IT, data engineering, and development can help me have a great professional experience.
+Aspirant Data Scientist et Ingénieur Logiciel
+</br>
+📊 Spécialisé en Data Science et Génie Informatique </br>
+🚀 Expérience pratique en Python, Machine Learning, Data Analytics, Deep Learning, .NET et NLP </br>
+🌐 À la recherche active d'opportunités professionnelles ou de projets collaboratifs </br>
+💡 Passionné par l'utilisation de la technologie pour des solutions basées sur les données </br>
+
+Diplômé en Génie Informatique avec une spécialisation en Data Science, je suis profondément engagé à utiliser mes compétences pour relever les défis du secteur technologique. </br>
 
 - 📫 How to reach me: muhammadalibenhmida@gmail.com
   [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-ali-ben-hmida/)

@@ -18,8 +18,10 @@ Aspiring Data Scientist and Software Engineer </br>
 💡 Passionate about leveraging technology for data-driven solutions </br>
 
 As a graduate with a degree in Computer Engineering and a specialization in Data Science, I am deeply committed to utilizing my skill set to tackle challenges in the technology sector. </br>
+
 <h5 align="center">
-- 📫 How to reach me: muhammadalibenhmida@gmail.com  </br>
+- 📫 How to reach me: </br>
+  muhammadalibenhmida@gmail.com  </br>
   [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-ali-ben-hmida/)
 </h5>
 

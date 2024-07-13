@@ -4,16 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Ali+Ben+Hmida...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+##  Mohammad Ali Ben Hmida
+## Software Engineer, Data Science Specialist | Python Development, Data Analyst, Data Modeling.
 
+Aspiring Data Scientist and Software Engineer </br>
 
-Aspirant Data Scientist et Ingénieur Logiciel
-</br>
-📊 Spécialisé en Data Science et Génie Informatique </br>
-🚀 Expérience pratique en Python, Machine Learning, Data Analytics, Deep Learning, .NET et NLP </br>
-🌐 À la recherche active d'opportunités professionnelles ou de projets collaboratifs </br>
-💡 Passionné par l'utilisation de la technologie pour des solutions basées sur les données </br>
+📊 Specializing in Data Science and Computer Engineering
+🚀 Hands-on experience in Python, Machine Learning, Data Analytics, Deep Learning, .NET, and NLP
+🌐 Actively seeking job opportunities or collaborative projects
+💡 Passionate about leveraging technology for data-driven solutions
 
-Diplômé en Génie Informatique avec une spécialisation en Data Science, je suis profondément engagé à utiliser mes compétences pour relever les défis du secteur technologique. </br>
+As a graduate with a degree in Computer Engineering and a specialization in Data Science, I am deeply committed to utilizing my skill set to tackle challenges in the technology sector.
 <h5 align="center">
 - 📫 How to reach me: muhammadalibenhmida@gmail.com
   [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-ali-ben-hmida/)

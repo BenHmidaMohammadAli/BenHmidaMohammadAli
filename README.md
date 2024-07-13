@@ -41,24 +41,23 @@ As a graduate with a degree in Computer Engineering and a specialization in Data
 - **Flask**
 - **.NET**
 
-### Data Engineering:
+### Data Science & Engineering:
 - **ETL Creation**: SQL Server Data Tools, Logstash, Airflow
 - **Data Warehousing**: SQL Server, Oracle, MySQL
 - **Dashboarding**: Power BI, MDX
 - **Web Scraping**: BeautifulSoup
 - **Modeling**: Machine Learning (Scikit-Learn), Deep Learning (DL), Computer Vision
-- **Big Data**: MongoDB, Elasticsearch, Neo4j (Cypher)
 
 ### Databases:
 - **SQL**: SQL, PL SQL, SQL Server, Oracle
 - **NoSQL**: MongoDB, Elasticsearch, Neo4j (Cypher)
 
 ### Programming Environments:
-- **IDEs**: Visual Studio, Eclipse, Visual Studio Code, PyCharm, PhpStorm, IntelliJ, Anaconda
+- **IDEs**: Visual Studio, Eclipse, Visual Studio Code, PyCharm, PhpStorm, IntelliJ, Anaconda/Google Coolab
 
 ### Operating Systems:
 - **Windows**
-- **Linux**: CentOS, Red Hat, Ubuntu
+- **Linux**: CentOS, Red Hat, Ubuntu.
 
 ### General Skills:
 - **Project Management**: GIT, GitHub, GitLab
@@ -71,7 +70,6 @@ As a graduate with a degree in Computer Engineering and a specialization in Data
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BenHmidaMohammadAli&theme=react&border=61dafb&hide_border=true" alt="BenHmidaMohammadAli"/>
     </a>
-    
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BenHmidaMohammadAli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>

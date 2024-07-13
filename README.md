@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BenHmidaMohammadAli.BenHmidaMohammadAli">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Ali+Ben+Hmida...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
-  
-## Mohammad Ali Ben Hmida </br>
-## Software Engineer, Data Science Specialist | Python Development, Data Analyst, Data Modeling.
+  - Mohammad Ali Ben Hmida </br>
+
+  ## Software Engineer, Data Science Specialist | Python Development, Data Analyst, Data Modeling.
 </h5>
 
 Aspiring Data Scientist and Software Engineer </br>

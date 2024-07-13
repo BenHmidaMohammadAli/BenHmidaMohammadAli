@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h5 align="center">
-  - Mohammad Ali Ben Hmida </br>
+<h3 align="center">
+  Mohammad Ali BEN HMIDA </br>
 
   ## Software Engineer, Data Science Specialist | Python Development, Data Analyst, Data Modeling.
-</h5>
+</h3>
 
 Aspiring Data Scientist and Software Engineer </br>
 
